@@ -55,7 +55,7 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
           className="text-5xl md:text-7xl font-bold tracking-tight mb-4"
         >
-          Rameen Sumaiya
+         Sumaiya Rameen
         </motion.h1>
 
         <motion.p
@@ -64,7 +64,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-2xl md:text-3xl text-blue-600 dark:text-blue-400 mb-6"
         >
-          Frontend Engineer | Aspiring Software Engineer
+          Aspiring Software Engineer
         </motion.p>
 
         <motion.p
@@ -108,7 +108,7 @@ export default function Hero() {
           transition={{ delay: 0.8 }}
           className="mt-12 flex flex-wrap justify-center gap-3"
         >
-          {['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'].map((skill, i) => (
+          {['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion','Node.js','MySQL'].map((skill, i) => (
             <motion.span
               key={skill}
               initial={{ opacity: 0, scale: 0.8 }}

@@ -19,7 +19,7 @@ import {
 
 export default function About() {
   const frontendSkills = ['HTML','CSS','JavaScript','React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'];
-  const backendSkills = ['MySql',];
+  const backendSkills = [ 'Node.js','MySql','REST APIs','Hono'];
   const toolsSkills = ['Git','GitHub', 'Figma', 'Vercel','API'];
 
   const timeline = [
@@ -68,8 +68,8 @@ export default function About() {
             transition={{ duration: 0.6 }}
           >
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
-              Hi, I'm a passionate <span className="font-semibold text-blue-600 dark:text-blue-400">Frontend Engineer</span> who loves turning ideas into beautiful, interactive web experiences. 
-              With expertise in modern React ecosystems, I focus on building fast, accessible, and visually stunning applications while continuously growing my skills towards becoming a software engineer.
+              Hi, I'm an <span className="font-semibold text-blue-600 dark:text-blue-400">aspiring Software Engineer</span> passionate about building impactful, full-stack web solutions that solve real-world problems. 
+              With expertise in modern React ecosystems,while confidently handling backend development using Node.js, I focus on building fast, accessible, and visually stunning applications while continuously growing my skills.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               When I'm not coding, you'll find me exploring new technologies, contributing to open source, or sharing knowledge through blog posts and mentoring.

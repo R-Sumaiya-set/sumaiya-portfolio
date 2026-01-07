@@ -27,16 +27,15 @@ export default function Projects() {
       live: 'https://floachat.vercel.app/',
       github: 'https://github.com/R-Sumaiya-set/floachat',
     },
-    /*{
-      title: 'Task Management App',
-      desc: 'Real-time collaborative task board with drag & drop',
-      gif: '/gifs/tasks.gif',
-      thumbnail: '/thumbnails/tasks.jpg',
-      tech: ['React', 'Firebase', 'Framer Motion', 'Zustand'],
-      live: 
-      github:
-    }
     {
+      title: 'ScriptZen-AI',
+      desc: 'Generative AI Content Optimizer',
+      gif: '/gifs/tasks.gif',
+      thumbnail:'/thumbnails/ScriptZen.png', 
+      tech: ['React.js', 'Tailwind CSS', 'Node.js', 'Hono framework', 'RESTful API'],
+      github: 'https://github.com/R-Sumaiya-set/ScriptZen-ai',
+    },
+    /*{
       title: 'AI Dashboard',
       desc: 'Analytics dashboard with beautiful charts and dark mode',
       gif: '/gifs/dashboard.gif',
